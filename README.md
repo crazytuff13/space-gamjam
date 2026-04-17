@@ -1,20 +1,20 @@
-# Space Astronaut Game 🚀
+# Space Astronaut Game 
 
 A 2D space platformer built in Unity with C# developed 
 during a game jam. Play as an astronaut navigating 
 through space levels!
 
-## 🎮 Play the Game
+##  Play the Game
 [Click here to play on itch.io!](https://crazytuff.itch.io/space)
 
 ## Features
-- 🎬 Main menu to start the game
-- 🌍 2 unique space levels
-- ⏸️ Pause menu with controls guide
-- 🔄 Restart level functionality
-- 🎵 Background soundtrack
-- 🔑 Key collectibles
-- 🌀 Portal level transitions
+-  Main menu to start the game
+-  2 unique space levels
+-  Pause menu with controls guide
+-  Restart level functionality
+-  Background soundtrack
+-  Key collectibles
+-  Portal level transitions
 
 ## Controls
 | Action | Key |
